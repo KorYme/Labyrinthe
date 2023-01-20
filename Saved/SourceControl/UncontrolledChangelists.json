@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/GitHub/UnrealEngine/Labyrinthe/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/GitHub/UnrealEngine/Labyrinthe/Content/Le_Labyrinthe/Maps/LabyrintheMap.umap",
+				"D:/GitHub/UnrealEngine/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/GitHub/UnrealEngine/Labyrinthe/Content/Le_Labyrinthe/Inputs/InputActions/IA_Jump.uasset",
+				"D:/GitHub/UnrealEngine/Labyrinthe/Content/Le_Labyrinthe/Inputs/InputActions/IA_Look.uasset",
+				"D:/GitHub/UnrealEngine/Labyrinthe/Content/Le_Labyrinthe/Inputs/InputActions/IA_Move.uasset",
+				"D:/GitHub/UnrealEngine/Labyrinthe/Content/Le_Labyrinthe/Inputs/IMC_Default.uasset",
+				"D:/GitHub/UnrealEngine/Labyrinthe/Content/Le_Labyrinthe/Blueprints/PC_Labyrinthe.uasset",
+				"D:/GitHub/UnrealEngine/Labyrinthe/Content/Le_Labyrinthe/Blueprints/GM_FirstPersonGameMode.uasset",
+				"D:/GitHub/UnrealEngine/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_FirstPersonGameMode.uasset",
+				"D:/GitHub/UnrealEngine/Labyrinthe/Content/Le_Labyrinthe/Inputs/InputActions/IA_Crouch.uasset",
+				"D:/GitHub/UnrealEngine/Labyrinthe/Content/Le_Labyrinthe/Inputs/InputActions/IA_Interact.uasset",
+				"D:/GitHub/UnrealEngine/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_Torche.uasset",
+				"D:/GitHub/UnrealEngine/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_Collision.uasset",
+				"D:/GitHub/UnrealEngine/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_Door.uasset",
+				"D:/GitHub/UnrealEngine/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_Switch.uasset",
+				"D:/GitHub/UnrealEngine/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_Trap.uasset"
+			]
+		}
+	]
+}
