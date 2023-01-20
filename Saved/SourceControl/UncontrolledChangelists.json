@@ -21,7 +21,16 @@
 				"D:/GitHub/UnrealEngine/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_Collision.uasset",
 				"D:/GitHub/UnrealEngine/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_Door.uasset",
 				"D:/GitHub/UnrealEngine/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_Switch.uasset",
-				"D:/GitHub/UnrealEngine/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_Trap.uasset"
+				"D:/GitHub/UnrealEngine/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_Trap.uasset",
+				"D:/GitHub/UnrealEngine/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_TrapZine.uasset",
+				"D:/GitHub/UnrealEngine/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_TrapZone.uasset",
+				"D:/GitHub/UnrealEngine/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_TrapWalls.uasset",
+				"D:/GitHub/UnrealEngine/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_BlockingBehindWall.uasset",
+				"D:/GitHub/UnrealEngine/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_FallingRoof.uasset",
+				"D:/GitHub/UnrealEngine/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_Torch.uasset",
+				"D:/GitHub/UnrealEngine/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_KillingWall.uasset",
+				"D:/GitHub/UnrealEngine/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_RoofAppearing.uasset",
+				"D:/GitHub/UnrealEngine/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_RestartButton.uasset"
 			]
 		}
 	]
