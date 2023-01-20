@@ -30,7 +30,19 @@
 				"D:/GitHub/UnrealEngine/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_Torch.uasset",
 				"D:/GitHub/UnrealEngine/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_KillingWall.uasset",
 				"D:/GitHub/UnrealEngine/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_RoofAppearing.uasset",
-				"D:/GitHub/UnrealEngine/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_RestartButton.uasset"
+				"D:/GitHub/UnrealEngine/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_RestartButton.uasset",
+				"D:/GitHub/UnrealEngine/Labyrinthe/Content/Le_Labyrinthe/Inputs/InputActions/IA_Sprint.uasset",
+				"D:/GitHub/UnrealEngine/Labyrinthe/Content/Le_Labyrinthe/Blueprints/Game/GM_FirstPersonGameMode.uasset",
+				"D:/GitHub/UnrealEngine/Labyrinthe/Content/Le_Labyrinthe/Blueprints/Game/PC_Labyrinthe.uasset",
+				"D:/GitHub/UnrealEngine/Labyrinthe/Content/FirstPersonArms/Animations/FirstPerson_AnimBP.uasset",
+				"D:/GitHub/UnrealEngine/Labyrinthe/Content/Le_Labyrinthe/Blueprints/GameObjects/BP_Door.uasset",
+				"D:/GitHub/UnrealEngine/Labyrinthe/Content/Le_Labyrinthe/Blueprints/GameObjects/BP_FirstPersonCharacter.uasset",
+				"D:/GitHub/UnrealEngine/Labyrinthe/Content/Le_Labyrinthe/Blueprints/GameObjects/BP_RestartButton.uasset",
+				"D:/GitHub/UnrealEngine/Labyrinthe/Content/Le_Labyrinthe/Blueprints/GameObjects/BP_RoofAppearing.uasset",
+				"D:/GitHub/UnrealEngine/Labyrinthe/Content/Le_Labyrinthe/Blueprints/GameObjects/BP_Switch.uasset",
+				"D:/GitHub/UnrealEngine/Labyrinthe/Content/Le_Labyrinthe/Blueprints/GameObjects/BP_Torch.uasset",
+				"D:/GitHub/UnrealEngine/Labyrinthe/Content/Le_Labyrinthe/Blueprints/GameObjects/BP_TrapWalls.uasset",
+				"D:/GitHub/UnrealEngine/Labyrinthe/Content/Le_Labyrinthe/Blueprints/GameObjects/BP_TrapZone.uasset"
 			]
 		}
 	]
